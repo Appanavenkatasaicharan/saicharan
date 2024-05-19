@@ -8,33 +8,33 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
+            Hi Everyone, I am <span className="purple">Appana Venkata Sai Charan </span>
             from <span className="purple"> Bhubaneswar, India.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am currently pursuing my BTech degree and I am expected to graduate in <span className="purple">Computer Science and Engineering</span> branch by 2025.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            I have made several full stack applications and I am interested in <span className="purple"> Blockchain </span> and <span className="purple">GenAI</span>.
             <br />
+            I like solving challenges in an optimal way. That's why I like to solve <span className="purple"> DSA </span> questions.
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Reading Books
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Watching anime
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Exploring new Tech.
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "First, solve the problem. Then, write the code."{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Sai Charan</footer>
         </blockquote>
       </Card.Body>
     </Card>
