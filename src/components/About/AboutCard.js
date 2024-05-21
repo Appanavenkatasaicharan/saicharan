@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Appana Venkata Sai Charan </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            from <span className="purple"> Bhimavaram,Andhra Pradesh .</span>
             <br />
             I am currently pursuing my BTech degree and I am expected to graduate in <span className="purple">Computer Science and Engineering</span> branch by 2025.
             <br />
